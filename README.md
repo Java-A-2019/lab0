@@ -144,7 +144,7 @@ public class Main {
 ![HelloWorld](https://raw.githubusercontent.com/Java-B-2018/lab0/master/images/HelloWorld.png)
 
 ### 第二个Java程序： 五子棋
-经过努力，助教终于给各位拿到了大神A的五子棋授权。这是大神A大一上程序设计A的project，相信大家只要好好努力，，，也不一定能超过大一的他，不要灰心，努力三年还是有点可能的。下载`/classes/19/181 程序设计A（陈荣华）/LAB/lab0/game`目录下的iGoBangBySongshu.jar。
+经过努力，助教大大终于给各位拿到了大神A的五子棋授权。这是大神A大一上程序设计A的project，相信大家只要好好努力，，，也不一定能超过大一的他，不要灰心，努力三年还是有点可能的。下载`/classes/19/181 程序设计A（陈荣华）/LAB/lab0/game`目录下的iGoBangBySongshu.jar。
 
 ![igobang path]()
 
