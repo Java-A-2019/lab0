@@ -7,7 +7,7 @@
 
 大神D忠告： 拒绝粗糙，追求细节！
 
-嗷，恭喜大家开启编程生涯！这是Programming课程的第一次上机实验，本次Lab将会帮助大家配置好相应的环境，为日后的编程做准备。
+嗷，恭喜大家开启编程生涯！这是Programming A课程的第一次上机实验，本次Lab将会帮助大家配置好相应的环境，为日后的编程做准备。
 
 ## 目录
 - [教学团队](#教学团队)  
@@ -125,7 +125,7 @@ export PATH=${PATH}:${JAVA_HOME}\n' >> ~/.bash_profile
 
 
 ### 第一个Java程序： Hello world！
-**对于检查环境配置，能打印出这一句话一句话说明路径、环境配置基本成功。Hello World是著名的贝尔实验室提出的范式了，学任意编程语言，Hello World都是起始代码。想要了解贝尔实验室的童鞋，可以参见吴军的《浪潮之巅》 I 百年帝国。)**
+**对于检查环境配置，能打印出这一句话一句话说明路径、环境配置基本成功。Hello World是著名的贝尔实验室提出的范式了，学任意编程语言，Hello World都是起始代码。想要了解贝尔实验室的童鞋，可以参见吴军的《浪潮之巅》 I 百年帝国。**
 
 用记事本或文本编辑器在电脑上新建文件 ```Main.java``` ，输入  
 ```
@@ -144,7 +144,7 @@ public class Main {
 ![HelloWorld](https://raw.githubusercontent.com/Java-B-2018/lab0/master/images/HelloWorld.png)
 
 ### 第二个Java程序： 五子棋
-接下来，我们玩点有意思的。下载`/classes/19/181 程序设计A（陈荣华）/LAB/lab0/game`目录下的iGoBangBySongshu.jar。
+经过努力，助教终于给各位拿到了大神A的五子棋授权。这是大神A大一上程序设计A的project，相信大家只要好好努力，，，也不一定能超过大一的他，不要灰心，努力三年还是有点可能的。下载`/classes/19/181 程序设计A（陈荣华）/LAB/lab0/game`目录下的iGoBangBySongshu.jar。
 
 ![igobang path]()
 
