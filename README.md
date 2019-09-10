@@ -15,7 +15,8 @@
 - [使用学院的ftp](#使用学院的ftp)
 - [使用elearning](#使用elearning)
 - [安装Java JDK](#安装java-jdk)
-- [软件的选择的建议](#软件推荐)
+- [思考题](#思考题)
+- [IDE选择的安利](#软件推荐)
 
 
 ## 教学团队
@@ -83,11 +84,6 @@ http://elearning.fudan.edu.cn/portal
 请在 FTP 的 Materials 文件夹下载 	jdk-8u181-windows-x64.exe（用于64位windows系统）或者jdk-8u181-windows-i586.exe （用于32位windows系统），jdk-8u221-macosx-x64 （用于Mac系统）。
 或者可以直接去官网下载，但是要先进行注册： https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
-
-> JDK是什么？ JDK 即java development kit， 用来帮助我们进行java开发。它包括了jre和其他一些辅助开发工具，比如jdk包括了java compiler -- "javac"， 还有一些工具库，如java.util。jre， 即java runtime environment，指的是java virtual machine， java虚拟机。我们编写了.java文件，jdk通过javac进行编译，编译成.class文件之后，在jvm上面跑。
-
-> 为什么是JDK 8? Java是科学家的发明，它是经过不断改进和完善的，而不是一蹴而就，一次发明永远使用的。从Java 1 到 12， 从Java被发明开始，它就不断地融入新的编程新思想和新的特性，弥补不足，直到Java 8它基本成熟了，所以我们使用Java 8。不同版本的java对照，参见： https://howtodoinjava.com/java-version-wise-features-history/ 。从这个角度讲，它和其他语言都是一样的，python 有python2和python3， C++也有不同的版本， javascript 有es5和es6。
-
 ### 配置环境变量（Windows）
 
 1. 在桌面上右键`计算机`(或者`此电脑`，`我的电脑`，不同系统显示名称可能不同)，点击`属性`:
@@ -126,9 +122,6 @@ export PATH=${PATH}:${JAVA_HOME}\n' >> ~/.bash_profile
 ```
 
 
-
-
-
 ### 第一个Java程序： Hello world！
 **对于检查环境配置，能打印出这一句话一句话说明路径、环境配置基本成功。Hello World是著名的贝尔实验室提出的范式了，学任意编程语言，Hello World都是起始代码。想要了解贝尔实验室的童鞋，可以参见吴军的《浪潮之巅》 I 百年帝国。**
 
@@ -157,7 +150,15 @@ public class Main {
 
 ![effect](https://raw.githubusercontent.com/Java-B-2019/lab0/master/images/effect.jpg)
 
-> java通常通过生成jar包形式，达到“一次编译，到处执行”的跨平台效果。诸如Windows， Linux和Mac系统都可以运行jar包。对Linux感兴趣，并且有时间的同学，可以选毛迪林老师的Linux操作系统。
+> Java是跨平台的，不管是Linux, Windows 还是 Mac系统都可以装Java。对Linux感兴趣，并且有时间的同学，可以选毛迪林老师的Linux操作系统。
+
+## 思考题
+- 什么是JDK?
+- Java 一共有12个版本，它们之间有什么不同？
+- 选择Java 8有什么好处？
+- JAVA 的跨平台特性是怎么实现的？
+   “Write once, run everywhere” - Sun Microsystem. 
+
 
 ## 软件推荐
 
