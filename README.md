@@ -85,6 +85,7 @@ http://elearning.fudan.edu.cn/portal
 
 
 > JDK是什么？ JDK 即java development kit， 用来帮助我们进行java开发。它包括了jre和其他一些辅助开发工具，比如jdk包括了java compiler -- "javac"， 还有一些工具库，如java.util。jre， 即java runtime environment，指的是java virtual machine， java虚拟机。我们编写了.java文件，jdk通过javac进行编译，编译成.class文件之后，在jvm上面跑。
+
 > 为什么是JDK 8? Java是科学家的发明，它是经过不断改进和完善的，而不是一蹴而就，一次发明永远使用的。从Java 1 到 12， 从Java被发明开始，它就不断地融入新的编程新思想和新的特性，弥补不足，直到Java 8它基本成熟了，所以我们使用Java 8。不同版本的java对照，参见： https://howtodoinjava.com/java-version-wise-features-history/ 。从这个角度讲，它和其他语言都是一样的，python 有python2和python3， C++也有不同的版本， javascript 有es5和es6。
 
 ### 配置环境变量（Windows）
