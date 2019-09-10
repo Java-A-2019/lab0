@@ -60,7 +60,7 @@ FTP 站点类似于云盘，在FTP上可以下载软件学院的的课程资料�
 
 3. Mac端推荐使用fileZilla作为客户端，地址在学院文件夹里。
 
-4. 然后进入 ```/classes/19/181 程序设计A（陈荣华）```
+4. 然后进入 ```/classes/19/191 程序设计A（陈荣华）```
 
 ![child](https://raw.githubusercontent.com/Java-B-2019/lab0/master/images/ftp.jpg)
 
@@ -78,10 +78,14 @@ FTP 站点类似于云盘，在FTP上可以下载软件学院的的课程资料�
 http://elearning.fudan.edu.cn/portal  
 右上角使用 URP 账号登陆。
 
-## 安装java JDK
+## 安装java JDK 8
 
-请在 FTP 的 Materials 文件夹或者 Java 官网下载符合电脑操作系统的JDK版本安装包并安装： [JDK 1.8](https://www.oracle.com/technetwork/cn/java/javase/downloads/jdk8-downloads-2133151-zhs.html) 。
+请在 FTP 的 Materials 文件夹下载 	jdk-8u181-windows-x64.exe（用于64位windows系统）或者jdk-8u181-windows-i586.exe （用于32位windows系统），jdk-8u221-macosx-x64 （用于Mac系统）。
+或者可以直接去官网下载，但是要先进行注册： https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
+
+> JDK是什么？ JDK 即java development kit， 用来帮助我们进行java开发。它包括了jre和其他一些辅助开发工具，比如jdk包括了java compiler -- "javac"， 还有一些工具库，如java.util。jre， 即java runtime environment，指的是java virtual machine， java虚拟机。我们编写了.java文件，jdk通过javac进行编译，编译成.class文件之后，在jvm上面跑。
+> 为什么是JDK 8? Java是科学家的发明，它是经过不断改进和完善的，而不是一蹴而就，一次发明永远使用的。从Java 1 到 12， 从Java被发明开始，它就不断地融入新的编程新思想和新的特性，弥补不足，直到Java 8它基本成熟了，所以我们使用Java 8。不同版本的java对照，参见： https://howtodoinjava.com/java-version-wise-features-history/ 。从这个角度讲，它和其他语言都是一样的，python 有python2和python3， C++也有不同的版本， javascript 有es5和es6。
 
 ### 配置环境变量（Windows）
 
