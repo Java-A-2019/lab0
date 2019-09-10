@@ -62,7 +62,7 @@ FTP 站点类似于云盘，在FTP上可以下载软件学院的的课程资料�
 
 4. 然后进入 ```/classes/19/181 程序设计A（陈荣华）```
 
-![child](.PNG)
+![child](https://raw.githubusercontent.com/Java-B-2019/lab0/master/images/ftp.jpg)
 
 
 >注意，你只对 WORK_UPLOAD文件夹有上传的权限，没有下载、删除、重命名的权限。  
@@ -146,7 +146,7 @@ public class Main {
 ### 第二个Java程序： 五子棋
 经过努力，助教大大终于给各位拿到了大神A的五子棋授权。这是大神A大一上程序设计A的project，相信大家只要好好努力，，，也不一定能超过大一的他，不要灰心，努力三年还是有点可能的。下载`/classes/19/181 程序设计A（陈荣华）/LAB/lab0/game`目录下的iGoBangBySongshu.jar。
 
-![igobang path]()
+![igobang path](https://raw.githubusercontent.com/Java-B-2019/lab0/master/images/igobang.jpg)
 
 在包含iGoBangBySongshu.jar的目录下，打开命令行，并输入命令： java -jar .\iGoBangBySongshu.jar。效果如下：
 
