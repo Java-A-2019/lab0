@@ -83,7 +83,7 @@ http://elearning.fudan.edu.cn/portal
 
 ## 安装java JDK 8
 
-请在 FTP 的 Materials 文件夹下载 	jdk-8u181-windows-x64.exe（用于64位windows系统）或者jdk-8u181-windows-i586.exe （用于32位windows系统），jdk-8u221-macosx-x64 （用于Mac系统）。
+请在 FTP 的 ```/classes/19/191 程序设计A（陈荣华）/LAB/lab0/jdk```文件夹下载 	jdk-8u181-windows-x64.exe（用于64位windows系统）或者jdk-8u181-windows-i586.exe （用于32位windows系统），jdk-8u221-macosx-x64 （用于Mac系统）。
 或者可以直接去官网下载，但是要先进行注册： https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
 ### 配置环境变量（Windows）
