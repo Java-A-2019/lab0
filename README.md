@@ -15,8 +15,10 @@
 - [使用学院的ftp](#使用学院的ftp)
 - [使用elearning](#使用elearning)
 - [安装Java JDK](#安装java-jdk)
+- [账号注册与IDEA](#账号注册与IDEA)
 - [思考题](#思考题)
-- [IDE选择的安利](#软件推荐)
+- [其他](#其他)
+
 
 
 ## 教学团队
@@ -152,6 +154,10 @@ public class Main {
 
 > Java是跨平台的，不管是Linux, Windows 还是 Mac系统都可以装Java。对Linux感兴趣，并且有时间的同学，可以选毛迪林老师的Linux操作系统。
 
+## 账号注册与IDEA
+1. 请登陆网站：https://github.com/ 。github是程序员必须知道了解的重要合作平台，我们会慢慢熟悉它。现在大家要做的事情是进入该网站并完成账号的注册。
+2. IDEA的下载： 使用记事本直接编辑java文件的做法是非常naive的，现在，编写java一般用~~宇宙最强的~~无比强大的Intellij IDEA来编写。同学们可以进入下面的链接进行下载（学生账户可以免费用ultimate版本）： http://www.jetbrains.com/idea/
+
 ## 思考题
 - 什么是JDK?
 - Java 一共有12个版本，它们之间有什么不同？
@@ -160,16 +166,8 @@ public class Main {
    “Write once, run everywhere” - Sun Microsystem. 
 
 
-## 软件推荐
-
-集成环境（IDE，**极力推荐**）:
-
-+ [IntelliJ IDEA](http://www.jetbrains.com/idea/)
-
-
-
-文本编辑器：
-
+## 其他
+轻量级文本编辑器：
 + [Visual Studio Code](https://code.visualstudio.com/) (**极力推荐**)
 + [NotePad++](https://notepad-plus-plus.org/) (**推荐**)
 + [Atom](https://atom.io/) 
